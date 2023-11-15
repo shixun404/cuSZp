@@ -1,5 +1,5 @@
 # Specify the minimum version of CMake required to build the project
-cmake_minimum_required(VERSION 3.21)
+cmake_minimum_required(VERSION 3.20)
 
 project(cuSZp
         VERSION 0.0.2
